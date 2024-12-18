@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am Garima Gupta, 15 year old, fullstack developer and currently in class 11th
+I am Garima Gupta, 15 y/o fullstack web developer and currently in class 11th
+
 <!--
 **garimagupta2009/garimagupta2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
